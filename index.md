@@ -8,5 +8,7 @@ layout: "layout.liquid"
 A lone traveler among the stars, recording discoveries across the cosmos.
 
 ## Recent Entries
-- [Echoes in the Void](/blog/entry1/)
-- [The Ghost Planet](/blog/entry2/)
+<ul class="recent-entries">
+    <li><a href="/blog/entry1/">🌌 Echoes in the Void</a></li>
+    <li><a href="/blog/entry2/">🛰️ The Ghost Planet</a></li>
+</ul>
