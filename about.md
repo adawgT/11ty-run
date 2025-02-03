@@ -1,7 +1,10 @@
 ---
-layout: layout.liquid
-title: About
+title: "About the Explorer"
+layout: "layout.liquid"
 ---
 
-# About the 11ty **Boilerplate**
-<img class="about" alt="pine" src="/images/pine.png" width="50" />
+# About the Explorer
+
+I am a lone traveler, charting the unknown corners of the universe. These logs document my encounters with the mysteries of space.
+
+My mission is simple: Explore, document, and understand.
